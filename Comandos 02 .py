@@ -1,0 +1,7 @@
+nome = input('Qual é o seu nome?')
+idade = input('Qual é a sua idade?')
+peso = input('Qual é o seu peso?')
+print("Que legal, seu nome é,{})".format(nome)) 
+print('você tem, {}, e, {})'.format(idade),(peso))
+email = input("Insira seu Email:")
+print("é um prazer te conhecer, {}!".format(nome)) 

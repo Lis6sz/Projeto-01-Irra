@@ -1,0 +1,5 @@
+n = input("Digite um valor;")
+print (n.isnumeric())
+print (n.isalnum())
+print (n.isdecimal())
+print (n.isalpha())
